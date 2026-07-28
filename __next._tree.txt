@@ -1,4 +1,4 @@
-:HL["/profi-obuchenie-rabochim/_next/static/chunks/0gz2hg4~u5ol3.css","style"]
-:HL["/profi-obuchenie-rabochim/_next/static/media/a343f882a40d2cc9-s.p.0kho-wj7-y-w1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/profi-obuchenie-rabochim/_next/static/media/d3fe2f289711ac3f-s.p.0i6ci0u~g4zml.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_T4hl7WWlT6ETg31muzV8"}
+:HL["/prof-standart/_next/static/chunks/15jps_2v_ge2m.css","style"]
+:HL["/prof-standart/_next/static/media/a343f882a40d2cc9-s.p.0kho-wj7-y-w1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/prof-standart/_next/static/media/d3fe2f289711ac3f-s.p.0i6ci0u~g4zml.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"tdMsH5zrxJ0odjICP_YDC"}
